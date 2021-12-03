@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Text Utils : Text Utility app created using React.
+
+Text Utils is a word counter, character counter and a text utility app which you can use
+to manipulate your text in the way you want.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
