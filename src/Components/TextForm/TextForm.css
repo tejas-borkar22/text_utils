@@ -1,0 +1,11 @@
+.textForm {
+	width: 95%;
+}
+.textForm .btn-md {
+	margin: 0.2rem 1.2rem 0.6rem 0;
+	box-shadow: 7px 8px 2px #555555;
+}
+.textStats {
+	margin: 0.6rem 0 0.6rem 0;
+	padding: 0 0.6rem;
+}
